@@ -1,0 +1,18 @@
+1 - Crie um título de um ebook sobre o tema de "Criação de uma Loja na Amazon", o ebook é do nicho de e-commerce e o subnicho é de renda extra, o título deve ser épico e curto, tenha uma temática de star trek no título, me liste 5 variações de títulos
+
+2 - Combine os dois títulos abaixo, para gerar novos títulos poderosos
+"Amazon: A Última Fronteira da Renda Extra"
+"Loja Estelar: Sua Jornada Amazon Começa Aqui"
+
+3 - Faça um texto para ebook, com foco em criar uma loja na Amazon, listando os passos que devem ser feitos e com exemplos em imagens
+
+{REGRAS}
+> Explique sempre de uma maneira simples
+> Deixe o texto enxuto
+> Sempre traga exemplos de imagem para cada passo em contextos reais
+> Sempre deixe um título sugestivo por tópico 
+
+DEVE ESTAR ATUALIZADO PARA 2025. NÃO ESQUECER DE DIZER QUE O PRIMEIRO ANO É GRATUITO
+
+4 - Poderia criar um disclaimer avisando que esse guia é para iniciantes e ter cuidado com atualizações pois ele é feito para 2025
+
